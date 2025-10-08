@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=fgfobdpqjs&show_icons=true&theme=Default&hide=prs&rank_icon=github" alt="logo" align="right" width="50%" />
+
 Welcome!!
 <!--原站點（也就是[fgfobdpqjs.github.io](https://fgfobdpqjs.github.io/index.html)）沒了，現在是[fgfobdpqjspages1.pages.dev](https://fgfobdpqjspages1.pages.dev/)。-->
 <!---- 👋 Hi, I’m @fgfobdpqjs
