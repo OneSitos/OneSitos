@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=36&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Welcome%F0%9F%91%8B;%E6%AC%A2%E8%BF%8E%F0%9F%91%8B)]([https://git.io/typing-svg](https://readme-typing-svg.demolab.com/demo/?weight=100&size=36&color=FF0000&center=true&vCenter=true&lines=Welcome%F0%9F%91%8B;%E6%AC%A2%E8%BF%8E%F0%9F%91%8B))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=36&pause=1000&color=FF0000&center=true&vCenter=true&width=300&lines=Welcome%F0%9F%91%8B;%E6%AC%A2%E8%BF%8E%F0%9F%91%8B)](https://readme-typing-svg.demolab.com/demo/?weight=200&size=36&color=FF0000&center=true&vCenter=true&width=300&lines=Welcome%F0%9F%91%8B;%E6%AC%A2%E8%BF%8E%F0%9F%91%8B)
 <img src="https://github-readme-stats.vercel.app/api?username=fgfobdpqjs&show_icons=true&theme=Default&hide=prs&rank_icon=github" alt="logo" align="right" width="50%" />
 <!--Welcome!!-->
 <!--原站點（也就是[fgfobdpqjs.github.io](https://fgfobdpqjs.github.io/index.html)）沒了，現在是[fgfobdpqjspages1.pages.dev](https://fgfobdpqjspages1.pages.dev/)。-->
