@@ -5,9 +5,9 @@
 
 <!--![fgfobdpqjs](https://count.getloli.com/get/@fgfobdpqjs)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgfobdpqjs&layout=compact&theme=buefy)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgfobdpqjs&layout=compact&theme=buefy)-->
 
-![fgfobdpqjs's github stats](https://github-readme-stats.vercel.app/api?username=fgfobdpqjs&count_private=true&show_icons=true&count_private=true&theme=buefy)
+![fgfobdpqjs's github stats](https://github-readme-stats.vercel.app/api?username=fgfobdpqjs&count_private=true&show_icons=true&count_private=true&theme=Default)
 <!--Welcome!!-->
 <!--原站點（也就是[fgfobdpqjs.github.io](https://fgfobdpqjs.github.io/index.html)）沒了，現在是[fgfobdpqjspages1.pages.dev](https://fgfobdpqjspages1.pages.dev/)。-->
 <!---- 👋 Hi, I’m @fgfobdpqjs
