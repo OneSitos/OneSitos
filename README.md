@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=36&pause=1000&color=FF0000&center=true&vCenter=true&width=300&lines=Welcome%F0%9F%91%8B;%E6%AC%A2%E8%BF%8E%F0%9F%91%8B)](https://readme-typing-svg.demolab.com/demo/?weight=200&size=36&color=FF0000&center=true&vCenter=true&width=300&lines=Welcome%F0%9F%91%8B;%E6%AC%A2%E8%BF%8E%F0%9F%91%8B)
 
-<img src="https://github-readme-stats.vercel.app/api?username=fgfobdpqjs&show_icons=true&theme=default&hide=prs&rank_icon=github" alt="logo" align="right" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=fgfobdpqjs&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="logo" align="right" width="50%" />
 
 ![](https://github-readme-stats.vercel.app/api?username=fgfobdpqjs&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fgfobdpqjs&hide_border=true)<br/>
